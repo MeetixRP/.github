@@ -1,4 +1,17 @@
+# Welkom bij Meetix,
 
+Binnen onze organisatie houden we ons bezig met scripting, gaming servers en diverse ontwikkelingsactiviteiten. 
+We zijn trots op onze uitstekende game servers, scripts en vele andere mogelijkheden.
+
+Als prominente Nederlandse community streven we ernaar om te groeien en te bloeien.
+
+
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 
 AUTEURSRECHTVERKLARING EN GEBRUIKSVOORWAARDEN
 
