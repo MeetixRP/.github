@@ -20,9 +20,11 @@ Elk ongeoorloofd gebruik van de Software vormt een schending van het auteursrech
 
 Door bij te dragen aan de Software en commits te maken, stemt u automatisch in met het overdragen van alle intellectuele eigendomsrechten, inclusief auteursrechten, op die bijdragen aan Meetix. U erkent dat deze overdracht onvoorwaardelijk en definitief is.
 
+
 Dennis-NL is en blijft te allen tijde de rechtmatige eigenaar van de organisatie en de repositories, zelfs indien beheerders of mede-eigenaren (co-owners) van deze organisatie worden toegevoegd. Het is uitdrukkelijk verboden om Dennis-NL te verwijderen als eigenaar van deze organisatie.
 
-In geval van schending van deze eigendomsvoorwaarde of auteursrecht kunnen juridische acties worden ondernomen, bovenop eventuele schendingen van de eerder vermelde auteursrechtverklaring en gebruiksvoorwaarden.
+In geval van schending van deze eigendomsvoorwaarde kunnen juridische acties worden ondernomen, bovenop eventuele schendingen van de eerder vermelde auteursrechtverklaring en gebruiksvoorwaarden.
+
 
 Voor vragen over licenties, toestemmingen of ander gebruik van de Software, neem contact op met Meetix via Groningenrp@outlook.com.
 
